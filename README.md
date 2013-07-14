@@ -8,7 +8,7 @@ as much as possible. On its own Charlie CI will not do much
 of anything at all as it needs plugins to add any functionality
 beyond the core system and API.
 
-Charlie CI is still and development stage. You can check progress
+Charlie CI is still in development. You can check progress
 here.
 
 Charlie CI API is the API plugins use to integrate and interact with
