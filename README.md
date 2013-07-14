@@ -19,7 +19,7 @@ Copyright &copy; 2013, Stephen Williams (alta189) <http://alta189.com/>
 Downloads
 -----------------
 
-The latest Charlie CI source can be found [here][Github] and the latest Charlie CI API source can be found [here][Github API].
+The latest Charlie CI source can be found [here][Github] and the latest Charlie CI API source can be found [here][API Github].
 No builds are currently availble. Builds will most likely be posted when Charlie CI hits alpha.
 
 License
