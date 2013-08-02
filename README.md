@@ -23,6 +23,7 @@ The latest Charlie CI source can be found [here][Github] and the latest Charlie 
 No builds are currently availble. Builds will most likely be posted when Charlie CI hits alpha.
 
 Charlie CI build status: none
+
 Charlie CI API build status: [![Build Status](https://travis-ci.org/alta189/Charlie-CI-API.png)](https://travis-ci.org/alta189/Charlie-CI-API)
 
 License
