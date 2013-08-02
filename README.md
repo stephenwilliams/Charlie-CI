@@ -22,6 +22,9 @@ Downloads
 The latest Charlie CI source can be found [here][Github] and the latest Charlie CI API source can be found [here][API Github].
 No builds are currently availble. Builds will most likely be posted when Charlie CI hits alpha.
 
+Charlie CI build status: none
+Charlie CI API build status: [![Build Status](https://travis-ci.org/alta189/Charlie-CI-API.png)](https://travis-ci.org/alta189/Charlie-CI-API)
+
 License
 -----------------
 Charlie CI and Charlie CI API are both licensed under the GNU Lesser General Public License Version 3.
@@ -45,5 +48,3 @@ Charlie CI uses [Apache Maven][Maven] to handle dependencies and compilation
 [License]: http://www.gnu.org/licenses/lgpl-3.0.txt
 [Maven]: http://maven.apache.org/
 [Maven Download]: http://maven.apache.org/download.html
-
-
